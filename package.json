@@ -11,18 +11,16 @@
     "min_height": 750,
     "icon": "icon.png",
     "toolbar": false
-
   },
   "dependencies": {
-        "async": "^0.6.2",
-        "jquery": "^2.1.0",
-        "node-uuid": "^1.4.1",
-        "temp": "^0.7.0",
-        "xmldom": "^0.1.19",
-        "escape-html": "^1.0.1",
-        "xpath": "0.0.6",
-        "walk": "^2.3.1"
-    },
-
-    "chromium-args": "--child-clean-exit"
+    "async": "^0.6.2",
+    "jquery": "^2.1.0",
+    "node-uuid": "^1.4.1",
+    "temp": "^0.7.0",
+    "xmldom": "^0.1.19",
+    "escape-html": "^1.0.1",
+    "xpath": "0.0.6",
+    "walk": "^2.3.1"
+  },
+  "chromium-args": "--child-clean-exit"
 }
